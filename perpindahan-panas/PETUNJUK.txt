@@ -9,3 +9,8 @@ Rujukan teori utama: Bergman dan Lavine (2017), Fundamentals of Heat and Mass Tr
 
 Naskah ini merupakan laporan pendahuluan, bukan artikel hasil eksperimen. Alat, dimensi, setelan, prosedur operasional rinci, pengukuran, grafik hasil dan kesimpulan kinerja harus ditambahkan/dikonfirmasi menggunakan modul alat serta data praktik. Abstrak saat ini menjelaskan tujuan, rancangan dan hasil kajian teori; sesudah eksperimen perlu diperbarui.
 Skema instalasi adalah konseptual, bukan dokumentasi alat laboratorium.
+
+REVISI DASAR TEORI
+Konduksi: 10 halaman; Konveksi: 11 halaman; Heat Exchanger: 12 halaman.
+Bab II diperluas menjadi sekitar tiga kali panjang semula, dengan penurunan rumus, batas penggunaan, interpretasi fisik dan analisis ketidakpastian.
+Setiap naskah memuat tiga buku ilmiah dan briefing (empat entri). Buku tambahan diperiksa identitasnya dari bibliografi ebook Bergman–Lavine, bukan diklaim telah dibaca teks lengkapnya. Crossref, Google Books dan Wiley telah dicoba tetapi koneksi ditolak 403 oleh proxy.
