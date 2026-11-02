@@ -1,0 +1,11 @@
+PAKET JURNAL PENDAHULUAN PERPINDAHAN PANAS
+
+Terdiri atas tiga naskah: Konduksi, Konveksi, Heat Exchanger.
+Struktur mengikuti slide briefing 6–8; tata halaman mengikuti slide 9.
+File Word: A4, margin kiri 4 cm; kanan/atas/bawah 3 cm; Times New Roman 12 pt; spasi 1,5; abstrak spasi 1; nomor halaman kanan bawah.
+PDF diekspor dari Word. Font Times New Roman tidak terpasang pada mesin ekspor sehingga PDF menggunakan font pengganti kompatibel Liberation Serif; untuk hasil TNR asli, ekspor kembali Word pada komputer yang memiliki font tersebut.
+
+Rujukan teori utama: Bergman dan Lavine (2017), Fundamentals of Heat and Mass Transfer, edisi ke-8; identitas dan isi diperiksa dari ebook pengguna. Tidak mengklaim penelusuran jurnal daring atau data eksperimen yang tidak disediakan.
+
+Naskah ini merupakan laporan pendahuluan, bukan artikel hasil eksperimen. Alat, dimensi, setelan, prosedur operasional rinci, pengukuran, grafik hasil dan kesimpulan kinerja harus ditambahkan/dikonfirmasi menggunakan modul alat serta data praktik. Abstrak saat ini menjelaskan tujuan, rancangan dan hasil kajian teori; sesudah eksperimen perlu diperbarui.
+Skema instalasi adalah konseptual, bukan dokumentasi alat laboratorium.
