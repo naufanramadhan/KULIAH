@@ -24,3 +24,6 @@ Rumusan masalah ketiga jurnal diubah menjadi kalimat pernyataan. Konduksi memuat
 
 REVISI SELURUH PROSEDUR PENGUJIAN
 Subbab 3.3 konduksi dan konveksi disalin langsung tanpa parafrasa maupun koreksi redaksi dari modul pengguna, mencakup tahap persiapan dan pengambilan data. Dengan demikian, catatan terdahulu tentang perbaikan salah ketik dalam prosedur tidak berlaku pada versi ini; redaksi modul dipertahankan, termasuk ketidaktepatan penamaan alat baca arus. Secara penggunaan alat, arus tetap dibaca pada amperemeter, bukan voltmeter. Prosedur heat exchanger belum disamakan karena modulnya belum tersedia. Bagian lain jurnal tidak diubah.
+
+REVISI BERDASARKAN MODUL HEAT EXCHANGER
+Modul heat exchanger kini tersedia dan telah digunakan untuk menyesuaikan subbab 1.2, 1.3, 1.4, 3.1, 3.2, dan 3.3. Rumusan masalah berupa pernyataan; tujuan 3 butir, batasan 4 butir, peralatan 10 butir mengikuti modul. Gambar panel beserta anotasi berasal langsung dari halaman 6 modul. Seluruh prosedur persiapan, pengujian, pengamatan, dan penghentian alat disalin tanpa parafrasa; pemenggalan baris PDF disatukan. Bagian lain, termasuk latar belakang dan dasar teori, dipertahankan. Catatan lama tentang menunggu modul heat exchanger tidak lagi berlaku untuk versi ini.
