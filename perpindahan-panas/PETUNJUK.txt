@@ -21,3 +21,6 @@ Keterangan lama tentang alat/prosedur yang belum tersedia dan skema konseptual t
 
 REVISI REDAKSI SESUAI MODUL
 Rumusan masalah ketiga jurnal diubah menjadi kalimat pernyataan. Konduksi memuat 3 tujuan dan 5 batasan; konveksi memuat 2 tujuan dan 4 batasan, mengikuti jumlah dalam modul. Redaksi tujuan, batasan, peralatan dan benda kerja, instalasi (gambar dan keterangan), serta tahap persiapan konduksi dan konveksi mengikuti modul secara langsung. Bagian lain di luar subbab target dipertahankan. Pada heat exchanger, hanya rumusan masalah yang direvisi; penyesuaian bagian lainnya menunggu modul heat exchanger, karena modul yang tersedia hanya mencakup konduksi dan konveksi.
+
+REVISI SELURUH PROSEDUR PENGUJIAN
+Subbab 3.3 konduksi dan konveksi disalin langsung tanpa parafrasa maupun koreksi redaksi dari modul pengguna, mencakup tahap persiapan dan pengambilan data. Dengan demikian, catatan terdahulu tentang perbaikan salah ketik dalam prosedur tidak berlaku pada versi ini; redaksi modul dipertahankan, termasuk ketidaktepatan penamaan alat baca arus. Secara penggunaan alat, arus tetap dibaca pada amperemeter, bukan voltmeter. Prosedur heat exchanger belum disamakan karena modulnya belum tersedia. Bagian lain jurnal tidak diubah.
