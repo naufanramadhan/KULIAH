@@ -14,3 +14,7 @@ REVISI DASAR TEORI
 Konduksi: 10 halaman; Konveksi: 11 halaman; Heat Exchanger: 12 halaman.
 Bab II diperluas menjadi sekitar tiga kali panjang semula, dengan penurunan rumus, batas penggunaan, interpretasi fisik dan analisis ketidakpastian.
 Setiap naskah memuat tiga buku ilmiah dan briefing (empat entri). Buku tambahan diperiksa identitasnya dari bibliografi ebook Bergman–Lavine, bukan diklaim telah dibaca teks lengkapnya. Crossref, Google Books dan Wiley telah dicoba tetapi koneksi ditolak 403 oleh proxy.
+
+REVISI SESUAI MODUL KONDUKSI & KONVEKSI
+Lima subbab (1.3, 1.4, 3.1, 3.2, 3.3) pada jurnal konduksi dan konveksi telah disesuaikan dengan modul terbaru pengguna, termasuk gambar instalasi asli modul. Bagian lainnya dipertahankan. Parameter mengikuti modul terbaru apabila berbeda dari laporan contoh. Konduksi: set point 100, 125, 150 °C. Konveksi: 175, 200, 220 V; set point 75 °C; kipas tingkat 1–3. Salah ketik pembacaan arus pada voltmeter diperbaiki menjadi amperemeter.
+Keterangan lama tentang alat/prosedur yang belum tersedia dan skema konseptual tidak lagi berlaku bagi lima subbab konduksi dan konveksi yang direvisi. Heat exchanger tetap versi sebelumnya karena modul baru tidak mencakupnya. Data hasil pengujian tidak ditambahkan.
