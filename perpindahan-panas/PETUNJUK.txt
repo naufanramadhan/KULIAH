@@ -27,3 +27,6 @@ Subbab 3.3 konduksi dan konveksi disalin langsung tanpa parafrasa maupun koreksi
 
 REVISI BERDASARKAN MODUL HEAT EXCHANGER
 Modul heat exchanger kini tersedia dan telah digunakan untuk menyesuaikan subbab 1.2, 1.3, 1.4, 3.1, 3.2, dan 3.3. Rumusan masalah berupa pernyataan; tujuan 3 butir, batasan 4 butir, peralatan 10 butir mengikuti modul. Gambar panel beserta anotasi berasal langsung dari halaman 6 modul. Seluruh prosedur persiapan, pengujian, pengamatan, dan penghentian alat disalin tanpa parafrasa; pemenggalan baris PDF disatukan. Bagian lain, termasuk latar belakang dan dasar teori, dipertahankan. Catatan lama tentang menunggu modul heat exchanger tidak lagi berlaku untuk versi ini.
+
+PEMBARUAN HEADER, FOOTER, DAN WATERMARK
+Versi terbaru memakai ketiga Word hasil revisi pengguna sebagai dasar, bukan naskah lama repository. Desain halaman diambil dari PDF contoh header-footer pengguna dan ditempatkan di belakang teks. Isi utama dokumen dipertahankan identik; gambar asli dan footer nomor halaman tetap dipertahankan. Posisi nomor halaman dinaikkan agar tidak tertutup ornamen footer. PDF diekspor dari Word hasil pengeditan.
